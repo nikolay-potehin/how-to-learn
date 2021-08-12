@@ -1,0 +1,9 @@
+.video__iframe {
+  width: 515px;
+  margin: 0 20px 0 0;
+  display: flex;
+}
+
+.video__frame:last-child {
+  margin: 0;
+}
